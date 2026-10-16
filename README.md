@@ -8,13 +8,13 @@ Instead of relying on external randomizer programs, Kaleidoscope includes its ow
 
 Features
 
-* Built-in Randomizer: Customize your experience when starting a new game.
-* Integrated Nuzlocke Mode: Optional Nuzlocke rules with automatic tracking and permanent save deletion when your run ends.
-* Automatic Saving: Built-in autosave functionality.
-* Seed System: Generate randomized playthroughs and replay previous seeds.
-* Expanded Pokémon Content: Built on pokeemerald-expansion, offering additional Pokémon, moves, abilities, and mechanics.
-* Quality-of-Life Improvements: Modernized features designed to make repeat playthroughs more enjoyable.
-* Customizable Challenge: Adjust your experience using the in-game settings.
+Built-in Randomizer: Customize your experience when starting a new game.
+Integrated Nuzlocke Mode: Optional Nuzlocke rules with automatic tracking and permanent save deletion when your run ends.
+Automatic Saving: Built-in autosave functionality.
+Seed System: Generate randomized playthroughs and replay previous seeds.
+Expanded Pokémon Content: Built on pokeemerald-expansion, offering additional Pokémon, moves, abilities, and mechanics.
+Quality-of-Life Improvements: Modernized features designed to make repeat playthroughs more enjoyable.
+Customizable Challenge: Adjust your experience using the in-game settings.
 
 Public Beta
 
